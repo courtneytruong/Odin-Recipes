@@ -1,1 +1,3 @@
-# Odin-Recipes
+#Odin Recipes
+
+This project is a project that I am using to learn Front-End Development through the Odin Project. The goal of the project is to learn how to create a web-page using HTML, CSS and Javascript. I just graduated from Code:Kentucky where I learned Back-End Development using C# and .NET. By the end of this project I hope to be able to create a Front End for my .NET projects using Javascript. After learning Javascript I plan to go into learning React.
